@@ -1,0 +1,26 @@
+.App-logo{
+    height:750px;
+    width: 2000px;
+}
+
+.App-header{
+    background-color:white;
+}
+.App-header p{
+    font-size: 50px;
+    color: black;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.App-header NavLink{
+    position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+ 
